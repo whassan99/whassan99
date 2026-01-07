@@ -1,16 +1,40 @@
-## Hi there 👋
+# Wessam Hassan
 
-<!--
-**whassan99/whassan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Computer Vision | On-device Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+I work on applied machine learning systems with an emphasis on computer vision and on-device inference.  
+My interests sit at the intersection of biometric security, identity verification, and responsible AI.
+
+---
+
+### What I’m Working On
+- Face liveness detection and anti-spoofing (mobile, passive)
+- Face matching and biometric pipelines
+- OCR systems for Arabic and mixed-script identity documents
+- Lightweight ML models designed for real-world constraints
+
+---
+
+### Technical Background
+- **Machine Learning:** PyTorch, ONNX, CoreML, scikit-learn  
+- **Computer Vision:** OpenCV, image preprocessing, face analysis  
+- **Data:** Python, SQL, Pandas, Excel  
+- **Deployment:** Mobile on-device inference, model optimization  
+- **Tools:** Git, GitHub, VS Code, Jupyter
+
+---
+
+### Perspective
+I focus on building systems that are:
+- Practical and deployable
+- Privacy-aware and policy-realistic
+- Designed for production, not just research demos
+
+---
+
+### Connect
+- LinkedIn: [https://linkedin.com/in/yourname  ](https://www.linkedin.com/in/wessamhassan/)
+- Email: Wessam01hassan ( @ ) gmail.com
