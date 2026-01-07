@@ -4,6 +4,14 @@ AI Engineer | Computer Vision | On-device Machine Learning
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg" />
+</picture>
+
+---
+
 ### Focus
 I work on applied machine learning systems with an emphasis on computer vision and on-device inference.  
 My interests sit at the intersection of biometric security, identity verification, and responsible AI.
