@@ -1,11 +1,9 @@
 # Wessam Hassan
-
-AI Engineer | Computer Vision | On-device Machine Learning
+Applied ML / AI Engineer
 
 ---
 
 ### Focus
-I work on applied machine learning systems with an emphasis on computer vision and on-device inference.  
 My interests sit at the intersection of biometric security, identity verification, and responsible AI.
 
 ---
